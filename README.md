@@ -9,4 +9,14 @@ Programming assignments from coursera.org
 
 [X] Natural Language Processing in TensorFlow
 
-[ ] Sequences, Time Series and Prediction
+[X] Sequences, Time Series and Prediction
+
+## Natural Language Processing Specialization
+
+[ ] Natural Language Processing with Classification and Vector Spaces
+
+[ ] Natural Language Processing with Probabilistic Models
+
+[ ] Natural Language Processing with Sequence Models
+
+[ ] Natural Language Processing with Attention Models
