@@ -13,10 +13,18 @@ Programming assignments from coursera.org
 
 ## Natural Language Processing Specialization
 
-[ ] Natural Language Processing with Classification and Vector Spaces
+[X] Natural Language Processing with Classification and Vector Spaces
 
-[ ] Natural Language Processing with Probabilistic Models
+[X] Natural Language Processing with Probabilistic Models
 
-[ ] Natural Language Processing with Sequence Models
+[X] Natural Language Processing with Sequence Models
 
-[ ] Natural Language Processing with Attention Models
+[X] Natural Language Processing with Attention Models
+
+## Mathematics for Machine Learning and Data Science Specialization
+
+[X] Linear Algebra for Machine Learning and Data Science
+
+[X] Calculus for Machine Learning and Data Science
+
+[X] Probability & Statistics for Machine Learning & Data Science
